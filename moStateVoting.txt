@@ -1,0 +1,12 @@
+Idea:
+Create a mobile app that could later be added into MSU Mobile that replaces/aids the current voting system.
+
+Detailed:
+The voting app should be a lot like google surveys.
+Would need a database to store questions, possible answers, and answers.
+Should create notifications when new surveys are up so students are aware of open votes.
+Should have an activity that shows all currently open votes.
+
+Requirements:
+database
+android/ios
