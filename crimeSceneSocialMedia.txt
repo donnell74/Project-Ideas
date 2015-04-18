@@ -1,0 +1,12 @@
+Idea:
+Create a web application that searches social media for photos, text, and people at a crime/medical scene.
+
+Detailed Idea:
+The web application would either take in input from a user or from a site like Austin, Tx open data portal.
+It would take the address given (or lat/long) and use that to search twitter, facebook, and any other found useful.
+Map objects found to better show the data, maybe add distance from scene.
+
+APIs needed:
+Twitter
+Facebook
+Google Maps
