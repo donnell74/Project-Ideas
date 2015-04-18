@@ -1,0 +1,12 @@
+Idea:
+Create a web page that surveys students about their parking for MoState's Student Experience Group.
+
+Detailed:
+Create database to store all the data
+Ask students what lot they parked (or get gps data to guess)
+Ask students where they park and if it was a legal parking space
+Ask students when they first started looking for a spot
+Ask students when their class is
+Save current time to tell if they are late to class
+Create flyers to hang up at each parking lot with a qr code for the web page
+At end of each semester export database to csv and send to MoState's Student Experience Group
