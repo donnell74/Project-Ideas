@@ -1,0 +1,3 @@
+Create an editor that will teach a programmer how to white board programming problems.  It would use AI to make suggestions.  It would also grade the complexity of the solution.
+
+I feel like there should be a chat bot to answer questions like "I am not sure if I use length or size on a list".
